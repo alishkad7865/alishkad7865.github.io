@@ -1696,7 +1696,6 @@ input::-moz-focus-inner {
 .header-logo img {
   width: 70px;
   height: 75px;
-  vertical-align: bottom;
 }
 
 /* -------------------------------------------------------------------
@@ -1879,7 +1878,7 @@ input::-moz-focus-inner {
   }
 
   .header-logo img {
-    width: 37px;
+    width: 75px;
     height: 40px;
   }
 
